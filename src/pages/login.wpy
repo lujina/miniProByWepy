@@ -1,0 +1,15 @@
+<template>
+  <view class="container">
+
+  </view>
+</template>
+
+<script lang="ts">
+import wepy from 'wepy'
+export default class Login extends wepy.page {
+  
+}
+</script>
+
+
+
